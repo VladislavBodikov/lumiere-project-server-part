@@ -1,0 +1,17 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/review-service
+    username: postgres
+    password: root
+
+server:
+  port: 9999
+
+sentry:
+  dsn: https://d72c094e04eb492fb793b5bd2203892d@o1379664.ingest.sentry.io/6692592
+  traces-sample-rate: 1.0
+
+films:
+  api:
+    key: 27c2a56f16fda0a8a8cef11258b794be
+    bearer: eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyN2MyYTU2ZjE2ZmRhMGE4YThjZWYxMTI1OGI3OTRiZSIsInN1YiI6IjYzMGNlMGI1YjNlNjI3MDA5ODExNjgxZiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.kmQm93aZsH_i-jq6id5ypXNkQi2irsHVtFSOqvJ_R-Y
