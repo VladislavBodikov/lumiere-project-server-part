@@ -3,4 +3,4 @@ Lumiere is a project that allows users to share their interests, hobbies and rec
 
 ---
 This product uses the TMDB API but is not endorsed or certified by TMDB 
-![](D:\JavaPrograms\lumiere-project-server-part\src\main\resources\TMDB.png)
+![](\src\main\resources\TMDB.png)
